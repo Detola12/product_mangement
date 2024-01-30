@@ -399,7 +399,7 @@
 
     <!-- removeNotificationModal -->
     <!-- ========== App Menu ========== -->
-    <div class="app-menu navbar-menu">
+    {{--<div class="app-menu navbar-menu">
         <!-- LOGO -->
         <div class="navbar-brand-box">
             <!-- Dark Logo-->
@@ -912,7 +912,7 @@
         </div>
 
         <div class="sidebar-background"></div>
-    </div>
+    </div>--}}
     <!-- Left Sidebar End -->
     <!-- Vertical Overlay-->
     <div class="vertical-overlay"></div>
