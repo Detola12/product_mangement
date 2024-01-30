@@ -23,3 +23,11 @@ div > input::placeholder{
 th{
     font-size: 10px;
 }
+
+.activelink{
+    color: #3aaa62;
+}
+
+.activelink:hover{
+    color: #32685c;
+}
